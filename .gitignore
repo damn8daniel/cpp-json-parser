@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# Generated test files
+*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
